@@ -1,4 +1,6 @@
-URL: https://aneta-laurent.github.io/projet-3/
+URL:  <a href="https://aneta-laurent.github.io/projet-3/" class="text-center" target="_blank"
+                >Citybike - location des vélos en ligne</a>
+
 
 DESCRIPTIF
 Projet réalisé dans le cadre de la formation DWJ de Openclassrooms. L'objectif était de développer une page de type "Single page Application" simulant la réservation de vélos dans une ville de Lyon. Il dispose des caractéristiques suivantes :
